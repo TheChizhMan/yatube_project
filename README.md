@@ -25,8 +25,7 @@
 <strong>header.html</strong> - шаблон заголовка;<br>
 <strong>footer.html</strong> - шаблон нижнего колонтитула;<br>
 <strong>index.html</strong> - шаблон для главной страницы;<br>
-<strong>group_list.html</strong> - шаблон для сообщества;<br>
-<strong>post</strong> - шаблон публикации.</p>
+<strong>group_list.html</strong> - шаблон для сообщества.<br>
 <h2 class="code-line" data-line-start=35 data-line-end=36 ><a id="_35"></a>Технологии</h2>
 <p class="has-line-data" data-line-start="36" data-line-end="38">Python 3.9.14<br>
  Django 2.2.19</p>
