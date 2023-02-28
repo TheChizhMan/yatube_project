@@ -12,7 +12,7 @@
 <strong>author</strong> - автор (ссылка на модель User (связь «один-ко-многим»));<br>
 <strong>group</strong> - название сообщества, в котором находится публикация (ссылка на модель Group (связь «один-ко-многим»)).</p>
 <h4 class="code-line" data-line-start=17 data-line-end=18 ><a id="__17"></a>Свойства сообщества</h4>
-<p class="has-line-data" data-line-start="18" data-line-end="21">👥  <strong>title</strong> - название сообщества;<br>
+<p class="has-line-data" data-line-start="18" data-line-end="21"><strong>title</strong> - название сообщества;<br>
 <strong>slug</strong> - уникальный адрес сообщества;<br>
 <strong>description</strong> - описание сообщества.</p>
 <h4 class="code-line" data-line-start=22 data-line-end=23 ><a id="_22"></a>Реализовано</h4>
