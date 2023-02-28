@@ -37,6 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    # Добавили запись.
     'posts.apps.PostsConfig'
 ]
 
@@ -119,11 +120,11 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
-
+# Добавили статик.
 STATIC_URL = '/static/'
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
-
+# Добавили базу данных.
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
